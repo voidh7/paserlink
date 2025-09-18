@@ -8,7 +8,7 @@ git
 instalação 
 
 ```bash
-git clone url && cd ```
+git clone https://github.com/voidh7/paserlink && cd ```
 ```
 
 depois rode o script
